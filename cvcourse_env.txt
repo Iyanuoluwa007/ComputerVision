@@ -1,0 +1,5 @@
+cd C:\Users\okeiy\Downloads\Computer_Vision
+
+conda activate cvcourse_env
+
+jupyter notebook
